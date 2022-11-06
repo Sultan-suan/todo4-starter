@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+}
+.App > div {
+  padding: 1rem
+}
+
+.error {
+  color: red;
+}
+
+.active-filter {
+  background-color: aqua;
+}
+
+.isDone {
+  opacity: 0.5;
+}
+
